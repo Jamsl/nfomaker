@@ -1,0 +1,6 @@
+title
+set
+year
+genre
+thumb
+outline
