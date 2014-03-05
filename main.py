@@ -144,7 +144,7 @@ def make_filename():
         e = entries[tags.index('episode')].get()
         return series_entry.get() + ' - S' + s.zfill(2) + 'E' + e.zfill(2)
     elif radio_file.get() == 'movies.txt':
-        return entries[tags.index('title')].get() + '.nfo'
+        return entries[tags.index('title')].get()
     else:
         return 'dodo'
 

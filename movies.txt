@@ -4,3 +4,4 @@ year
 genre
 thumb
 outline
+plot
